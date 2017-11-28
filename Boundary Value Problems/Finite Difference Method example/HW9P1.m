@@ -4,7 +4,7 @@ close all
 
 fprintf('Matthew Dalton mdalton31 hw9p1 \n')
 
-h = 1;
+h = .1;
 A0 = 0.1;
 Aend = 0;
 D = 1.5e-6;
